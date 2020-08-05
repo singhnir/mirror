@@ -1,0 +1,2 @@
+### Install Raspbian
+To install it, I downloaded Raspbian from the official Raspberry Pi website and then copied it on a microSD card. Then inserted the card on the Raspberry Pi, started it and followed the setup instructions which are quite simple. Once Raspbian was installed, the first thing I did was to update the distribution with the latest packages, I configured the basics of the OS as for instance the keyboard layout to match my keyboard and everything was ready to go.
