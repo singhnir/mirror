@@ -1,12 +1,5 @@
 # The Intelligent Mirror
-The Intelligent Mirror powered by Raspberry PI Documentation V 1.2.0
-
-# Overview
-
-This is to certify that the project entitled **“The Intelligent Mirror powered by Raspberry PI”** has been submitted by **NIRMAL SINGH**, student of **Department of Physics II Year, Hindu College, University of Delhi** at the summer workshop organized by DS Kothari Centre for Research and Innovation in Science Education, Miranda House, University of Delhi from **7th June 2018 to 13th July 2018**
-
-PROJECT MENTOR: DR MONIKA TOMAR<br />
-PROJECT GUIDE: DR MALLIKA VERMA
+The Intelligent Mirror powered by Raspberry PI Documentation V 1.2.2
 
 # Table of Contents
 
@@ -29,3 +22,10 @@ PROJECT GUIDE: DR MALLIKA VERMA
 - [9. Advantages and limitations](https://singhnir.github.io/mirror/advantages_and_limitations/README.html)
 - [10. Future aspects](https://singhnir.github.io/mirror/future_aspects/README.html)
 - [11. Bibliography](https://singhnir.github.io/mirror/bibliography/README.html)
+
+# Overview
+
+This is to certify that the project entitled **“The Intelligent Mirror powered by Raspberry PI”** has been submitted by **NIRMAL SINGH**, student of **Department of Physics II Year, Hindu College, University of Delhi** at the summer workshop organized by DS Kothari Centre for Research and Innovation in Science Education, Miranda House, University of Delhi from **7th June 2018 to 13th July 2018**
+
+PROJECT MENTOR: DR MONIKA TOMAR<br />
+PROJECT GUIDE: DR MALLIKA VERMA
